@@ -45,13 +45,17 @@ Backend Engineering • System Design • Machine Learning • Cloud Technologie
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/shambhavi_jaiswal01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,sql" />
@@ -59,19 +63,11 @@ Backend Engineering • System Design • Machine Learning • Cloud Technologie
 
 ---
 
-### 🌐 Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
-
----
-
-### ⚙️ Backend & APIs
+## ⚙️ Development (Web, Backend & APIs)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring" />
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
@@ -81,26 +77,18 @@ Backend Engineering • System Design • Machine Learning • Cloud Technologie
 
 ---
 
-### 🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
----
-
-### ☁️ DevOps & Tools
+## 🧰 Tools & Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,idea,pycharm,figma" />
 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
 </p>
 
 ---
-
-

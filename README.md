@@ -103,63 +103,6 @@ Backend Engineering • System Design • Machine Learning • Cloud Technologie
 
 ---
 
-# 🚀 Featured Projects
-
-### 🚗 Parking Information System
-
-Full-stack **parking management platform** built using **Java + Spring Boot + PostgreSQL**
-
-✨ Features
-
-• Secure authentication  
-• Slot booking system  
-• Booking lifecycle management  
-• Valet dashboard  
-• Auto booking expiry  
-
-🔗 Repo  
-https://github.com/shambhavijaiswal01/parking_information_system
-
----
-
-### 🧠 Mental Health AI Chatbot
-
-AI-powered chatbot using **Phi-3-Mini via Ollama API**
-
-✨ Features
-
-• Guided meditation  
-• Stress-relief prompts  
-• Personalized responses  
-• Streamlit interface  
-
-🔗 Repo  
-https://github.com/shambhavijaiswal01/mental-health-support-bot
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhavijaiswal01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavijaiswal01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavijaiswal01&theme=tokyonight"/>
-
-</p>
-
----
-
 # 💡 Dev Quote of the Day
 
 <p align="center">
@@ -170,18 +113,3 @@ https://github.com/shambhavijaiswal01/mental-health-support-bot
 
 ---
 
-# 🏆 Achievements
-
-🏅 **Oracle Cloud Infrastructure AI Foundations Associate (2025)**  
-
-🏅 **AWS Educate – Introduction to Generative AI**  
-
-🏅 **LeetCode SQL50 Badge**
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shambhavijaiswal01.shambhavijaiswal01"/>
-</p>

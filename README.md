@@ -1,86 +1,151 @@
-<h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">
+Hi 👋, I'm Shambhavi Jaiswal
+</h1>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h3 align="center">
+Software Engineer | Backend Developer | AI Enthusiast
+</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shambhavi%20Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub Badge](https://img.shields.io/badge/-Shambhavi%20Jaiswal-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YOUR-USERNAME)](https://github.com/YOUR-USERNAME)
-[![Gmail Badge](https://img.shields.io/badge/-shambhavi.jaiswal.2022@vitstudent.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shambhavi.jaiswal.2022@vitstudent.ac.in)](mailto:shambhavi.jaiswal.2022@vitstudent.ac.in)
-
----
-
-## 👩‍💻 About Me
-
-I am **Shambhavi Jaiswal** 😃  
-🎓 B.Tech Student passionate about **Software Development, Machine Learning, and Backend Systems**.
-
-I enjoy building projects that solve real-world problems and constantly learning new technologies.
-
-- 🔭 Currently working on **Full Stack and Backend Development**
-- 🌱 Learning **Spring Boot, System Design, and Scalable Applications**
-- 💡 Interested in **AI, Data Science, and Cloud Technologies**
-- 🚀 Love solving **Data Structures & Algorithms**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+and+ML+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## ⚡ Technologies
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 Programming
-- **Java**
-- **Python**
-- **JavaScript**
+### 👩‍💻 About Me
+
+🎓 B.Tech in **Information Technology**  
+🏫 Vellore Institute of Technology (2022 – 2026)
+
+💡 Passionate about building **scalable backend systems and AI-powered applications**
+
+🚀 Interested in:
+- Backend Engineering
+- System Design
+- Machine Learning
+- Cloud Technologies
+
+📍 Patna, Bihar, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:shambhavijaiswal01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shambhavi-jaiswal-2945b2259">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shambhavijaiswal01">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
+</p>
 
 ### 🌐 Web Development
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Spring Boot**
 
-### 🧠 Machine Learning
-- **Deep Learning**
-- **RNN**
-- **LSTM**
-- **BiLSTM-CNN**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
 
-### 🗄 Databases
-- **PostgreSQL**
-- **SQL**
+### ⚙️ Backend & Databases
 
-### 🛠 Tools
-- **Git**
-- **GitHub**
-- **IntelliJ IDEA**
-- **VS Code**
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,idea,pycharm" />
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-🔹 **Parking Information System**  
-- Built using **Java + Spring Boot + PostgreSQL**  
-- Allows users to search and book parking slots in advance  
-- Includes **login/signup, valet interface, booking system**
+### 🚗 Parking Information System
 
-🔹 **Spam Email Detection using Deep Learning**  
-- Implemented models like **BiLSTM-CNN, LSTM, RNN**  
-- Compared performance with **Naive Bayes, SVM, Random Forest**
+Full-stack **parking management platform** built using **Java, Spring Boot, and PostgreSQL**
 
----
+Features:
+- Secure authentication
+- Parking slot booking
+- Booking lifecycle management
+- Valet dashboard
+- Auto booking expiry system
 
-## 🌎 Let's Connect
-
-- 💬 Ask me about **Java, Backend Development, or Machine Learning**
-- 📫 Email: **shambhavi.jaiswal.2022@vitstudent.ac.in**
-- 💻 GitHub: https://github.com/YOUR-USERNAME
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+🔗 Repo  
+https://github.com/shambhavijaiswal01/parking_information_system
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 Mental Health AI Chatbot
 
-![Shambhavi's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+AI-powered chatbot built using **Phi-3-Mini via Ollama API**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+Features:
+- Guided meditation
+- Stress-relief prompts
+- Personalized responses
+- Streamlit interface
+
+🔗 Repo  
+https://github.com/shambhavijaiswal01/mental-health-support-bot
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR-USERNAME.YOUR-USERNAME)
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhavijaiswal01&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavijaiswal01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavijaiswal01&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 **Oracle Cloud Infrastructure AI Foundations Associate (2025)**  
+🏅 **AWS Educate – Introduction to Generative AI**  
+🏅 **LeetCode SQL50 Badge**
+
+---
+
+# ⚡ Fun Fact
+
+💡 I enjoy turning **real-world problems into scalable software systems**
+
+---
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shambhavijaiswal01.shambhavijaiswal01"/>
+</p>
